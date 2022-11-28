@@ -1,0 +1,12 @@
+React实现——简约时钟表盘小项目
+-------------
+1.用到的库
+React、React-hook钩子{useEffect，useState}、style-components库
+组件化处理
+-------------
+2.内容
+main.jsx入口文件，渲染页面，用style-components库提供的函数createGlobalStyle书写全局样式
+
+App.jsx存放我们的表面组件样式和几个组件
+
+Clock.jsx，我们最主要的组件
